@@ -1,0 +1,5 @@
+.app {
+  width: 60%;
+  /* 2 parametry, 1 dotyczy marginesu góra/dół, drugi dotyczny prawo/lewo */
+  margin: 0 auto;
+}
